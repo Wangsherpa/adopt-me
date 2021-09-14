@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/adopt-me/static/css/main.d1535936.chunk.css",
+    "main.js": "/adopt-me/static/js/main.40e08d7d.chunk.js",
+    "main.js.map": "/adopt-me/static/js/main.40e08d7d.chunk.js.map",
+    "runtime-main.js": "/adopt-me/static/js/runtime-main.d4a6b158.js",
+    "runtime-main.js.map": "/adopt-me/static/js/runtime-main.d4a6b158.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/adopt-me/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.061eb130.chunk.js": "/adopt-me/static/js/2.061eb130.chunk.js",
+    "static/js/2.061eb130.chunk.js.map": "/adopt-me/static/js/2.061eb130.chunk.js.map",
+    "static/js/3.da735813.chunk.js": "/adopt-me/static/js/3.da735813.chunk.js",
+    "static/js/3.da735813.chunk.js.map": "/adopt-me/static/js/3.da735813.chunk.js.map",
+    "index.html": "/adopt-me/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/adopt-me/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.d1535936.chunk.css.map": "/adopt-me/static/css/main.d1535936.chunk.css.map",
+    "static/js/2.061eb130.chunk.js.LICENSE.txt": "/adopt-me/static/js/2.061eb130.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/adopt-me/static/media/Suga Child Extra Bold.25ee77e1.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4a6b158.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.061eb130.chunk.js",
+    "static/css/main.d1535936.chunk.css",
+    "static/js/main.40e08d7d.chunk.js"
+  ]
+}
