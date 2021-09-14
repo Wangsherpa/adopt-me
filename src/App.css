@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Suga Child Extra Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Suga Child Extra Bold'), url('Suga Child Extra Bold.woff') format('woff');
+  }
+
+h1 {
+  font-family: 'Suga Child Extra Bold';
+  font-weight: 200;
+  color: #0ccac4
+}
